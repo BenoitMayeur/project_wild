@@ -1,6 +1,6 @@
 # Project of a website for a Photographer
 
-Project based on the photos of Federico Di Dio
+Project of a homepage based on the photos of Federico Di Dio
 
 ![Portfolio Page](./images/image_read_me.png)
 

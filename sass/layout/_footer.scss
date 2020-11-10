@@ -1,0 +1,40 @@
+footer{
+    font-size: 15px;
+    font-family: Sans-Serif;
+    font-weight: bold;
+    margin-top: 2rem;
+}
+
+svg{
+    margin-bottom: 10px;
+}
+
+.footer_titre{
+    font-size: 20px;
+    color: rgb(163, 163, 167);
+
+}
+
+.footer_title_wild{
+    font-size: 20px;
+    color: rgb(163, 163, 167);
+}
+
+.div_footer{
+    margin-top: -10px;
+    line-height: 2;
+    margin-bottom: 20px;
+}
+
+.copyright{
+    margin: 10px;
+    text-align: center;
+    color: rgb(163, 163, 167);
+    line-height: 2;
+}
+
+@media only screen and (min-width: 800px){
+    .copyright{
+        margin: 50px 0px 100px;
+    }
+}
